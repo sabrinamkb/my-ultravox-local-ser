@@ -4,4 +4,4 @@ soundfile
 librosa
 scikit-learn==1.3.2
 joblib
-tensorflow
+tensorflow-cpu
