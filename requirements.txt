@@ -1,5 +1,5 @@
 requests
-numpy==1.23.5
+numpy
 soundfile
 librosa
 scikit-learn==1.3.2
